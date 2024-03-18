@@ -1,0 +1,5 @@
+# Default ignored files
+/.idea
+main.py
+rooms.json
+students.json
